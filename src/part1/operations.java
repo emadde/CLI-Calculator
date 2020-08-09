@@ -39,7 +39,7 @@ public class operations {
 			System.out.println("Result of " + a + " * " + b + " = " + result);
 			break;
 		case 4:
-			if(b <= 0) System.out.println("Error");
+			if(b == 0) System.out.println("Cannot divide by 0");
 			else {
 				result = a / b;
 			System.out.println("Result of " + a + " / " + b + " = " + result);
