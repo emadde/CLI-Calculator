@@ -23,7 +23,6 @@ public class operations {
 		System.out.println("Second Number : ");
 		double b = input.nextDouble();
 		
-		
 		double result = 0;
 		
 		switch(operation) {
