@@ -107,3 +107,5 @@ e: Exit
 Choose your operation: e
 <br><br>
 Goodbye!
+
+![Test](Calculator.png)
