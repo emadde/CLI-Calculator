@@ -56,6 +56,8 @@ Second Number 0
 <br><br>
 Result: Cannot divide by 0
 
+![Test](Calculator.png)
+
 
 <h2>Part 2</h2>
 <h3>Requirements</h3>
@@ -108,4 +110,4 @@ Choose your operation: e
 <br><br>
 Goodbye!
 
-![Test](Calculator.png)
+
